@@ -1,0 +1,72 @@
+Well, I had presentation notes on note cards, but I can't turn them into documents.
+
+So, disorganized facts about Bitcoin GO!
+
+How it works (bonus points for it being open source):
+
+	- Think of it kind of like a check, but your signature uses public and private keys instead of your hand.
+
+	- So, the way you check if a signature is valid is by using the public key to decript
+		the "signature" and the associated hash function on the data. If they match,
+		it's valid.
+
+	- Technically speaking, you don't have to pay a fee in order for your transaction to be verified.
+		But the miners that do that work will speed up the process if you do.
+
+	- Call your personal bitcoin wallet a credit card if you like, but the fact rmains that it's harder to track
+		who sells what on the bitcoin market. And yes, this has caused problems for bitcoin but they're willing
+		to work with law enforcement, so you should probably stick to hard cash when you're trying to cover up
+		your drug business.
+
+Economics:
+
+	-OH DEAR GOD THE VOLATILITY. Think something along the lines of gold... except seven times stronger.
+		-For the non-market-savvy, high volatility just means that the price tends to vary wildly.
+
+	-Some people think it's a bubble. Considering the value of Bitcoin has risen on Log scale, I'm inclined to believe them.
+		-A bubble: think of tulips in holland. And it's treated as a currency, so just like the ruble, bitcoin can die.
+
+	-Others have accused it of being a ponzi scheme. This is far more contentious, though I am inclined
+		to see the accusers as the same sort of people who said that the internet would never catch on.
+
+	-SO, to wrap up, many economists don't like bitcoin, and think it's either basically worthless or outright criminal. My response:
+
+		-Yes, it's somewhat fictional, but so is gold.
+
+		-Criminal? Absolutely not. Hell, Richard Stallman thinks it's not anonymous enough. It might be
+			financially risky, but that's no reason to link it to ill intent.
+
+Politics:
+
+	-Naturally, libertarians love a financial transaction system independent of a governement. Decide for yourself whether
+		that's an inherent virtue.
+
+	-The above also appeals to conservatives wary of big goverment.
+
+	-Liberals, meanwhile, appreciate that Bitcoin is somewhat independent of big financial institutions. I guess there's some thing for everyone.
+
+
+
+So, that's basically it.
+
+P.S. I'm still not sure why I wasn't working with my other period 7 bitcoin person on this, but whatever. I prefer working alone anyway.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
